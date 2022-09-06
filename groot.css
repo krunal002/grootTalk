@@ -12,8 +12,8 @@
 
 body{
     font-family: 'Rozha One', serif;
-    color: #b45309;
-    background-color: #fef2f2;
+    color: var(--secondary-color);
+    background-color: #111827;
 }
 
 /* heading */
@@ -75,7 +75,7 @@ body{
     color: var(--secondary-color);
     text-align: center;
     width: 100%;
-    padding: 1rem;
+    padding: 2rem;
     position: fixed;
     bottom: 0;
 }
