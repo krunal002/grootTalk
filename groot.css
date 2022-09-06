@@ -66,6 +66,7 @@ body{
     padding: 1rem;
     font-size: larger;
     background-color: white;
+    color: black;
     overflow:scroll;
 }
 
